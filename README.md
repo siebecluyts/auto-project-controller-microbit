@@ -1,5 +1,6 @@
 
 > Open this page at [https://siebecluyts.github.io/auto-project-controller-microbit/](https://siebecluyts.github.io/auto-project-controller-microbit/)
+> Open in makecode [https://makecode.microbit.org/S16707-21347-82792-70715](https://makecode.microbit.org/S16707-21347-82792-70715)
 
 ## Use as Extension
 
